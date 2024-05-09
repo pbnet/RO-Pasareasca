@@ -13,5 +13,6 @@ O = po
 U = pu
 
   the consonants do not change usually. 
+  The purpose of this console app is to make things easier and convert the text for you. 
 
   Enjoy!
