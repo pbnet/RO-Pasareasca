@@ -6,11 +6,11 @@ The basics are:
 
 After the vowels A E I O U put the following:
 
-  A = bye
-  E = on
-  I = pi
-  O = po
-  U = pu
+ A = pa
+ E = pe
+ I = pi
+O = po
+U = pu
 
   the consonants do not change usually. 
 
