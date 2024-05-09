@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>RO_Pasareasca</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>Convertor RO-Pasareasca</Title>
+    <Version>1.0</Version>
+    <Authors>Andrei Emilian Rachita</Authors>
+    <Company>Andrei Emilian Rachita</Company>
+    <Product>Convertor RO-Pasareasca</Product>
+    <Description>Convertor RO-Pasareasca</Description>
+    <Copyright>Andrei Emilian Rachita © 2024</Copyright>
+  </PropertyGroup>
+
+</Project>
